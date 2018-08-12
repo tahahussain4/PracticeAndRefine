@@ -1,0 +1,28 @@
+{
+  "name": "myOauth",
+  "version": "1.0.0",
+  "description": "I thought it was asking the names of the packages it would install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahahussain4/OauthNode.git"
+  },
+  "keywords": [
+    "oauth"
+  ],
+  "author": "taha hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahahussain4/OauthNode/issues"
+  },
+  "homepage": "https://github.com/tahahussain4/OauthNode#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "npm": "^6.1.0",
+    "oauth2-server": "^3.0.0"
+  }
+}
